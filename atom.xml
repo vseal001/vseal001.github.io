@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vseal</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://vseal001.github.io/"/>
+  <updated>2019-03-02T02:58:09.774Z</updated>
+  <id>http://vseal001.github.io/</id>
+  
+  <author>
+    <name>Vseal</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>搭建LNMP环境</title>
+    <link href="http://vseal001.github.io/posts/6be34445/"/>
+    <id>http://vseal001.github.io/posts/6be34445/</id>
+    <published>2018-05-07T04:51:00.000Z</published>
+    <updated>2019-03-02T02:58:09.774Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;LNMP是指一组通常一起使用来运行动态网站或者服务器的自由软件名称首字母缩写。L指Linux（此处基于centos环境），N指Nginx，M一般指MySQL(，也可以指MariaDB)，P一般指PHP(，也可以指Perl或Python)。&lt;/p&gt;
+&lt;h5
+        
+      
+    
+    </summary>
+    
+      <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="环境搭建" scheme="http://vseal001.github.io/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="LNMP" scheme="http://vseal001.github.io/tags/LNMP/"/>
+    
+      <category term="非基础环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+</feed>
