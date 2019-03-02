@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Vseal</title>
+  <title>The blog of vseal</title>
   
-  
+  <subtitle>紫印罗兰的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://vseal001.github.io/"/>
-  <updated>2019-03-02T02:58:09.774Z</updated>
+  <updated>2019-03-02T08:03:58.278Z</updated>
   <id>http://vseal001.github.io/</id>
   
   <author>
@@ -17,11 +17,93 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>搭建git服务器</title>
+    <link href="http://vseal001.github.io/posts/c5e160bf/"/>
+    <id>http://vseal001.github.io/posts/c5e160bf/</id>
+    <published>2019-03-02T07:59:00.000Z</published>
+    <updated>2019-03-02T08:03:58.278Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;下载安装-git&quot;&gt;&lt;a href=&quot;#下载安装-git&quot; class=&quot;headerlink&quot; title=&quot;下载安装 git&quot;&gt;&lt;/a&gt;下载安装
+        
+      
+    
+    </summary>
+    
+    
+      <category term="环境搭建" scheme="http://vseal001.github.io/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
+    
+      <category term="git" scheme="http://vseal001.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>centos安装伪分布式</title>
+    <link href="http://vseal001.github.io/posts/8918ab64/"/>
+    <id>http://vseal001.github.io/posts/8918ab64/</id>
+    <published>2019-03-02T07:26:00.000Z</published>
+    <updated>2019-03-02T07:55:20.104Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;教程环境和说明&quot;&gt;&lt;a href=&quot;#教程环境和说明&quot; class=&quot;headerlink&quot; title=&quot;教程环境和说明&quot;&gt;&lt;/a&gt;教程环境和说明&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;软硬件环境&lt;br&gt;CentOS 7.2 64 位&lt;br&gt;OpenJDK-
+        
+      
+    
+    </summary>
+    
+      <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="hadoop" scheme="http://vseal001.github.io/tags/hadoop/"/>
+    
+      <category term="大数据" scheme="http://vseal001.github.io/tags/%E5%A4%A7%E6%95%B0%E6%8D%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建Ftp</title>
+    <link href="http://vseal001.github.io/posts/9ac9cbe6/"/>
+    <id>http://vseal001.github.io/posts/9ac9cbe6/</id>
+    <published>2019-03-02T07:16:00.000Z</published>
+    <updated>2019-03-02T07:25:12.448Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;基于centos环境搭建，其他环境使用命令稍有不同&lt;/p&gt;
+&lt;h4 id=&quot;安装并启动-FTP-服务&quot;&gt;&lt;a href=&quot;#安装并启动-FTP-服务&quot; class=&quot;headerlink&quot; title=&quot;安装并启动 FTP 服务&quot;&gt;&lt;/a&gt;安装并启动 FTP
+        
+      
+    
+    </summary>
+    
+      <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
+    
+    
+      <category term="非集成环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+  <entry>
     <title>搭建LNMP环境</title>
     <link href="http://vseal001.github.io/posts/6be34445/"/>
     <id>http://vseal001.github.io/posts/6be34445/</id>
     <published>2018-05-07T04:51:00.000Z</published>
-    <updated>2019-03-02T02:58:09.774Z</updated>
+    <updated>2019-03-02T06:56:26.568Z</updated>
     
     <summary type="html">
     
@@ -39,11 +121,11 @@
       <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
     
     
+      <category term="非集成环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83/"/>
+    
       <category term="环境搭建" scheme="http://vseal001.github.io/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
       <category term="LNMP" scheme="http://vseal001.github.io/tags/LNMP/"/>
-    
-      <category term="非基础环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83/"/>
     
   </entry>
   
