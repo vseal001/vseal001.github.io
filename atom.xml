@@ -76,7 +76,7 @@
     <link href="http://vseal001.github.io/posts/9ac9cbe6/"/>
     <id>http://vseal001.github.io/posts/9ac9cbe6/</id>
     <published>2019-03-02T07:16:00.000Z</published>
-    <updated>2019-03-02T07:25:12.448Z</updated>
+    <updated>2019-03-02T08:53:38.307Z</updated>
     
     <summary type="html">
     
@@ -91,10 +91,125 @@
     
     </summary>
     
-      <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
     
     
       <category term="非集成环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建API文本库showdoc</title>
+    <link href="http://vseal001.github.io/posts/e245b23a/"/>
+    <id>http://vseal001.github.io/posts/e245b23a/</id>
+    <published>2019-01-01T10:23:00.000Z</published>
+    <updated>2019-03-02T10:28:34.186Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;安装-Nginx&quot;&gt;&lt;a href=&quot;#安装-Nginx&quot; class=&quot;headerlink&quot; title=&quot;安装 Nginx&quot;&gt;&lt;/a&gt;安装
+        
+      
+    
+    </summary>
+    
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
+    
+    
+      <category term="API文档" scheme="http://vseal001.github.io/tags/API%E6%96%87%E6%A1%A3/"/>
+    
+      <category term="showdoc" scheme="http://vseal001.github.io/tags/showdoc/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建个人Leanote云笔记</title>
+    <link href="http://vseal001.github.io/posts/8742adce/"/>
+    <id>http://vseal001.github.io/posts/8742adce/</id>
+    <published>2018-09-02T10:12:00.000Z</published>
+    <updated>2019-03-02T10:17:11.627Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;下载启动-MongoDB&quot;&gt;&lt;a href=&quot;#下载启动-MongoDB&quot; class=&quot;headerlink&quot; title=&quot;下载启动 MongoDB&quot;&gt;&lt;/a&gt;下载启动 MongoDB&lt;/h4&gt;&lt;p&gt;Leanote 依赖 MongoDB
+        
+      
+    
+    </summary>
+    
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
+    
+      <category term="ubuntu" scheme="http://vseal001.github.io/categories/centos/ubuntu/"/>
+    
+    
+      <category term="云笔记" scheme="http://vseal001.github.io/tags/%E4%BA%91%E7%AC%94%E8%AE%B0/"/>
+    
+      <category term="leanote" scheme="http://vseal001.github.io/tags/leanote/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建Python环境</title>
+    <link href="http://vseal001.github.io/posts/2e046981/"/>
+    <id>http://vseal001.github.io/posts/2e046981/</id>
+    <published>2018-08-20T04:18:00.000Z</published>
+    <updated>2019-03-02T10:22:06.520Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;准备工作&quot;&gt;&lt;a href=&quot;#准备工作&quot; class=&quot;headerlink&quot; title=&quot;准备工作&quot;&gt;&lt;/a&gt;准备工作&lt;/h4&gt;&lt;p&gt;Python是一种解释型、面向对象、动态数据类型的高级程序设计语言。首先我们来看看系统中是否已经存在 Python
+        
+      
+    
+    </summary>
+    
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
+    
+    
+      <category term="非集成环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83/"/>
+    
+      <category term="Python" scheme="http://vseal001.github.io/tags/Python/"/>
+    
+      <category term="基础环境" scheme="http://vseal001.github.io/tags/%E5%9F%BA%E7%A1%80%E7%8E%AF%E5%A2%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装 SVN 服务端</title>
+    <link href="http://vseal001.github.io/posts/78a57c6d/"/>
+    <id>http://vseal001.github.io/posts/78a57c6d/</id>
+    <published>2018-06-08T11:41:00.000Z</published>
+    <updated>2019-03-02T10:09:55.767Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;安装-SVN-服务端&quot;&gt;&lt;a href=&quot;#安装-SVN-服务端&quot; class=&quot;headerlink&quot; title=&quot;安装 SVN 服务端&quot;&gt;&lt;/a&gt;安装 SVN 服务端&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;安装 Subversion&lt;br&gt;Subversion
+        
+      
+    
+    </summary>
+    
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
+    
+    
+      <category term="SVN" scheme="http://vseal001.github.io/tags/SVN/"/>
     
   </entry>
   
@@ -103,7 +218,7 @@
     <link href="http://vseal001.github.io/posts/6be34445/"/>
     <id>http://vseal001.github.io/posts/6be34445/</id>
     <published>2018-05-07T04:51:00.000Z</published>
-    <updated>2019-03-02T06:56:26.568Z</updated>
+    <updated>2019-03-02T08:53:51.311Z</updated>
     
     <summary type="html">
     
@@ -118,7 +233,7 @@
     
     </summary>
     
-      <category term="centos系统应用" scheme="http://vseal001.github.io/categories/centos%E7%B3%BB%E7%BB%9F%E5%BA%94%E7%94%A8/"/>
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
     
     
       <category term="非集成环境" scheme="http://vseal001.github.io/tags/%E9%9D%9E%E9%9B%86%E6%88%90%E7%8E%AF%E5%A2%83/"/>
@@ -126,6 +241,35 @@
       <category term="环境搭建" scheme="http://vseal001.github.io/tags/%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/"/>
     
       <category term="LNMP" scheme="http://vseal001.github.io/tags/LNMP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搭建Seafile专属网盘</title>
+    <link href="http://vseal001.github.io/posts/227dc608/"/>
+    <id>http://vseal001.github.io/posts/227dc608/</id>
+    <published>2018-05-06T10:50:00.000Z</published>
+    <updated>2019-03-02T08:59:46.321Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;注册域名和解析域名&quot;&gt;&lt;a href=&quot;#注册域名和解析域名&quot; class=&quot;headerlink&quot; title=&quot;注册域名和解析域名&quot;&gt;&lt;/a&gt;注册域名和解析域名&lt;/h4&gt;&lt;p&gt;请先查看你的域名商帮助文档或提交工单!然后再进行下面步骤~&lt;/p&gt;
+&lt;h4
+        
+      
+    
+    </summary>
+    
+      <category term="centos" scheme="http://vseal001.github.io/categories/centos/"/>
+    
+    
+      <category term="网盘" scheme="http://vseal001.github.io/tags/%E7%BD%91%E7%9B%98/"/>
+    
+      <category term="seafile" scheme="http://vseal001.github.io/tags/seafile/"/>
     
   </entry>
   
